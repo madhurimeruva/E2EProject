@@ -1,0 +1,7 @@
+18:52:41.731 [main] INFO  Academy.E2EProject.ValidateTitle - Navigated to home page
+18:52:43.372 [main] INFO  resources1.BaseFunction - chrome
+18:52:43.373 [main] INFO  resources1.BaseFunction - https://www.rahulshettyacademy.com/#/index
+18:53:01.092 [main] INFO  Academy.E2EProject.HomePage - restricted user
+18:53:11.405 [main] INFO  Academy.E2EProject.HomePage - non-restricted user
+18:53:20.384 [main] INFO  Academy.E2EProject.HomePage - semi restricted user
+18:53:25.027 [main] INFO  resources1.BaseFunction - chrome

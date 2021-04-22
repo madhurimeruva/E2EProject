@@ -1,0 +1,6 @@
+23:58:43.363 [TestNG] INFO  resources1.BaseFunction - chrome
+23:58:43.372 [TestNG] INFO  resources1.BaseFunction - https://www.rahulshettyacademy.com/#/index
+23:58:59.592 [TestNG] INFO  Academy.E2EProject.ValidateTitle - Browser is initialized
+23:59:03.924 [TestNG] INFO  Academy.E2EProject.ValidateTitle - Navigated to home page
+23:59:08.503 [TestNG] INFO  Academy.E2EProject.ValidateNavigation - Navigation bar is displayed on the home page
+23:59:13.589 [TestNG] INFO  Academy.E2EProject.HomePage - restricted user

@@ -1,0 +1,7 @@
+00:49:40.433 [TestNG] INFO  Academy.E2EProject.ValidateTitle - Navigated to home page
+00:49:42.892 [TestNG] INFO  Academy.E2EProject.ValidateNavigation - Navigation bar is displayed on the home page
+00:49:49.545 [TestNG] INFO  Academy.E2EProject.HomePage - restricted user
+00:49:57.967 [TestNG] INFO  Academy.E2EProject.HomePage - non-restricted user
+00:50:08.390 [TestNG] INFO  Academy.E2EProject.HomePage - semi restricted user
+23:47:14.897 [main] INFO  resources1.BaseFunction - chrome
+23:47:14.899 [main] INFO  resources1.BaseFunction - https://www.rahulshettyacademy.com/#/index

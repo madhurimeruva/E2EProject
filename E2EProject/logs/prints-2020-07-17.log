@@ -1,0 +1,7 @@
+23:35:41.309 [TestNG] INFO  resources1.BaseFunction - chrome
+23:35:41.319 [TestNG] INFO  resources1.BaseFunction - https://www.rahulshettyacademy.com/#/index
+23:35:41.312 [TestNG] INFO  resources1.BaseFunction - chrome
+23:35:41.338 [TestNG] INFO  resources1.BaseFunction - https://www.rahulshettyacademy.com/#/index
+23:35:41.312 [TestNG] INFO  resources1.BaseFunction - chrome
+23:35:41.338 [TestNG] INFO  resources1.BaseFunction - https://www.rahulshettyacademy.com/#/index
+23:35:47.982 [TestNG] INFO  Academy.E2EProject.ValidateTitle - Browser is initialized
