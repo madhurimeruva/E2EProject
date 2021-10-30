@@ -1,0 +1,14 @@
+if( tenantId in ['aabz_s01', 'aabz_s02', 'aabz_s03', 'aabz_s04', 'aaia_s05', 'aaia_s13', 'aaij_s25', 'aaik_s13', 'aaqd_s12', 'bbsv_035', 'bdgc_s04', 'bdgc_s05', 'bdmt_s01', 'bdmt_s02', 'bdmt_s03', 'bdmt_s04', 'bdqd_s04', 'bdxd_s02', 'bfrx_001', 'bfrx_002', 'bfrx_003', 'bfxt_001', 'bfxt_002', 'bfxt_003', 'bfxt_005', 'bfxt_007', 'bgbw_001', 'bgbw_003', 'bghb_001', 'bgnd_004', 'bgnl_001', 'bgpk_002', 'bgpk_003', 'bgvb_001', 'bgvb_002', 'bgvb_004', 'zybm_001', 'zzap_025', 'zzas_045', 'zzas_047', 'zzas_051', 'zzas_054', 'zzem_005', 'zzem_030', 'zziu_003', 'zzkt_007', 'zzpm_013', 'zzpm_023', 'zzra_004', 'zzra_008', 'zzra_009', 'zzra_014', 'zzrb_012', 'zzrb_096', 'zzrb_099', 'zzrb_139', 'zzrb_197', 'zzrb_227', 'zzrb_233', 'zzrb_339', 'zzrq_002', 'zzrq_003', 'zzrq_004', 'zzrq_007', 'zzrq_010', 'zzrq_015', 'zzrr_003', 'zzrt_001', 'zzrt_003', 'zzrt_005', 'zzrt_017', 'zzrt_046', 'zzsa_008', 'zzsa_021', 'zzsa_033', 'zzsa_035', 'zzsa_042', 'zzsa_045', 'zzsa_050', 'zzsa_051', 'zzsa_053', 'zzsa_055', 'zzsa_057', 'zzsa_060', 'zzsa_061', 'zzsa_062', 'zzsa_063', 'zzsa_064', 'zzsa_065', 'zzsa_066', 'zzsa_067', 'zzsa_068', 'zzsa_070', 'zzsa_071', 'zzsa_072', 'zzsa_077', 'zzsa_083', 'zzsa_087', 'zzsa_096', 'zzsa_098', 'zzsa_102', 'zzsa_104', 'zzsb_017', 'zzsb_021', 'zzsb_031', 'zzsb_032', 'zzsb_033', 'zzsb_035', 'zzsb_036', 'zzsb_037', 'zzsb_038', 'zzsb_039', 'zzsb_040', 'zzsb_041', 'zzsb_042', 'zzsb_043', 'zzsb_044', 'zzsb_045', 'zzsb_047', 'zzsb_048', 'zzsb_049', 'zzsb_050', 'zzsb_051', 'zzsb_053', 'zzse_006', 'zzse_025', 'zzse_033', 'zzse_054', 'zzse_067', 'zzse_085', 'zzse_100', 'zzse_106', 'zzse_108', 'zzse_115', 'zzse_118', 'zzse_120', 'zzse_123', 'zzse_150', 'zzse_154', 'zzse_170', 'zzse_176', 'zzse_179', 'zzse_182', 'zzse_197', 'zzse_200', 'zzxi_001', 'zzxi_002'] )
+{ 
+  return true
+}
+
+if( tenantGroup in ['sig'] && realmId in ['bgcj'])
+{
+  return true
+}
+
+if( realmId in ['bfjm','bgvz']) 
+{
+  return true
+}
