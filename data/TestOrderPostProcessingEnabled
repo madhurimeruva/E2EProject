@@ -3,7 +3,7 @@ if(tenantId in [ 'aadb_prd', 'aadb_s01', 'aadb_s02', 'aadb_s03', 'aadb_s04', 'aa
   return true
 }
 
-if( realmId in [ 'aaqt', 'abah', 'abcc', 'bbhh', 'bbqq', 'bbzw', 'bclf', 'bcrg', 'bdfw', 'bdgz', 'bdwf', 'bdwv', 'bfcn', 'bfgp', 'bgxs', 'bhdq', 'lcrq', 'lcrqf', 'lpqr','aayl'])
+if( realmId in [ 'aaqt', 'abah', 'abcc', 'bbhh', 'bbqq', 'bbzw', 'bclf', 'bcrg', 'bdfw', 'bdgz', 'bdwf', 'bdwv', 'bfcn', 'bfgp', 'bgxs', 'bhdq', 'lcrq', 'lpqr','aayl'])
 {
   return true
 }
